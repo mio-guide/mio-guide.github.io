@@ -1911,7 +1911,7 @@ __webpack_require__.r(__webpack_exports__);
 // See LICENSE
 
 const isProd = true;
-const prodContext = '/ear-guide';
+const prodContext = '/';
 const devContext = '';
 const variant = 'V1';
 const config = {
